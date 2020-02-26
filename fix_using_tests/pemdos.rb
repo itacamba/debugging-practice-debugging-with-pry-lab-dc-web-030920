@@ -8,5 +8,3 @@ def snake_it_up(string)
   end
   s_string
 end
-
-snake_it_up("samix")

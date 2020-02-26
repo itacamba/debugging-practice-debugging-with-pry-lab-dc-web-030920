@@ -16,7 +16,6 @@ def greet_crew (crew)
   crew.each {|crew_member| p "Hello #{crew_member}."}
 end
 
-binding.pry
 def engage
   date = generate_star_date
   state_log(date)

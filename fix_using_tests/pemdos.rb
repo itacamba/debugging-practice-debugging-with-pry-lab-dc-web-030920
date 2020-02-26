@@ -8,6 +8,7 @@ def snake_it_up(string)
   end
   s_string
 end
-binding.pry
 
 snake_it_up("samix")
+
+binding.pry
